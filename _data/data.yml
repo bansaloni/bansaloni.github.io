@@ -7,64 +7,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Saloni Bansal
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: bansaloni7@gmail.com
+    phone:
+    website:
+    linkedin: bansaloni
+    github: bansaloni
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Painting
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am enthusiastic towards various domains of computer science including machine learning, 
+      deep learning, game theory and security. I focus on real-life scenarios and try to come up with a solution.
+      I am keen on learning new things and their applicability on real-world problems. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MTech in Computer Science
+      university: Indian Institute of Science, Bengaluru
+      time: 2017-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I tried to get my hands on various domains of computer science. 
+          - Subjects: Game Theory, Probability and Statistics, Practical Data Science, Linear Algebra 
+          Graph Theory, Database Management System, Design and Analysis of Algorithms  
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
